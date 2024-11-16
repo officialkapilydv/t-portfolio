@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/t-portfolio/static/css/main.957b7221.css",
+    "main.js": "/t-portfolio/static/js/main.c3654955.js",
+    "static/js/415.4d6acbeb.chunk.js": "/t-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/t-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/text.png": "/t-portfolio/static/media/text.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/t-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/t-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/TARUN_CV.pdf": "/t-portfolio/static/media/TARUN_CV.3d0a6f4169b8f2e58140.pdf",
+    "static/media/home-bg.jpg": "/t-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/t-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/t-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/t-portfolio/index.html",
+    "main.957b7221.css.map": "/t-portfolio/static/css/main.957b7221.css.map",
+    "main.c3654955.js.map": "/t-portfolio/static/js/main.c3654955.js.map",
+    "415.4d6acbeb.chunk.js.map": "/t-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/t-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957b7221.css",
+    "static/js/main.c3654955.js"
+  ]
+}
